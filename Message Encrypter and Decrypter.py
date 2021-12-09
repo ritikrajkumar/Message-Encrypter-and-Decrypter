@@ -95,6 +95,4 @@ Button(root, font = 'arial 10 bold', text = 'Reset', width = 6, command = Reset,
 #exit button
 Button(root, font = 'arial 10 bold', text= 'Exit' , width = 6, command = Exit, bg = 'Red', padx = 2, pady = 2).place(x = 400, y = 305)
 
-
-
 root.mainloop()
