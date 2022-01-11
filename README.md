@@ -1,2 +1,2 @@
 # Message-Encryption-and-Decryption
-It will help the users to encrypt and decrypt the messages.
+We have successfully developed a program that encrypts and decrypts a message. This will help in minimizing the problem of data theft and leaks of other sensitive information. The message that we obtained after encryption is very safe and no one can know the original message. So, this file can be sent over a network without worrying.
