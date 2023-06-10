@@ -15,7 +15,7 @@ root.title("Message Encrypter and Decrypter")
 
 #window labels
 Label(root, text = 'Message Encrypter and Decrypter', font = 'arial 20 bold', bg = 'dimgray', fg = 'ghostwhite').pack()
-Label(root, text = 'Developed by - \n Ritik Raj Kumar, Kamal Raj, Aditya Kumar, Ashish Ranjan, Gufran Hasan, Md. Shadab Khan', font = 'arial 8 bold', bg = 'dimgray', fg = 'ghostwhite').pack(side = BOTTOM)
+Label(root, text = 'Developed by - Ritik Raj Kumar', font = 'arial 8 bold', bg = 'dimgray', fg = 'ghostwhite').pack(side = BOTTOM)
 
 #define variables
 Text = StringVar()
